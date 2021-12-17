@@ -13,7 +13,6 @@ export 'package:flui/src/widgets/badge.dart';
 export 'package:flui/src/widgets/copyable_label.dart';
 export 'package:flui/src/widgets/toast.dart';
 export 'package:flui/src/widgets/primary_color_override.dart';
-export 'package:flui/src/widgets/pin_input.dart';
 export 'package:flui/src/widgets/auto_complete.dart';
 export 'package:flui/src/widgets/empty.dart';
 export 'package:flui/src/widgets/marquee_label.dart';
