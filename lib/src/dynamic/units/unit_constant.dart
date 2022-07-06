@@ -184,12 +184,12 @@ AlignmentDirectional flStringToAlignmentDirectional(
   }
 }
 
-Overflow flStringToOverflow(String overflow) {
+TextOverflow flStringToOverflow(String overflow) {
   switch (overflow) {
     case FLDyOverflowType.visible:
-      return Overflow.visible;
+      return TextOverflow.visible;
     case FLDyOverflowType.clip:
-      return Overflow.clip;
+      return TextOverflow.clip;
     default:
       return null;
   }
