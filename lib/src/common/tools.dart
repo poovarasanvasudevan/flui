@@ -98,12 +98,6 @@ class FLThemeTool {
           return theme.disabledColor;
         case FLThemeColors.secondaryHeaderColor:
           return theme.secondaryHeaderColor;
-        case FLThemeColors.textSelectionColor:
-          return theme.textSelectionColor;
-        case FLThemeColors.cursorColor:
-          return theme.cursorColor;
-        case FLThemeColors.textSelectionHandleColor:
-          return theme.textSelectionHandleColor;
         case FLThemeColors.backgroundColor:
           return theme.backgroundColor;
         case FLThemeColors.dialogBackgroundColor:

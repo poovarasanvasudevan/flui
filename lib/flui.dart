@@ -2,8 +2,6 @@ library flui;
 
 // widgets
 export 'package:flui/src/common/defines.dart';
-export 'package:flui/src/widgets/flat_button.dart';
-export 'package:flui/src/widgets/raised_button.dart';
 export 'package:flui/src/widgets/gradient_button.dart';
 export 'package:flui/src/widgets/loading_button.dart';
 export 'package:flui/src/widgets/bubble.dart';
@@ -22,7 +20,6 @@ export 'package:flui/src/widgets/image.dart';
 export 'package:flui/src/widgets/action_sheet.dart';
 export 'package:flui/src/widgets/operation_sheet.dart';
 export 'package:flui/src/widgets/appbar_title.dart';
-export 'package:flui/src/widgets/static_list.dart';
 export 'package:flui/src/widgets/list_tile.dart';
 export 'package:flui/src/widgets/persistent_header.dart';
 
